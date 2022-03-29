@@ -1,4 +1,4 @@
-# Analog-Clock
+# Analog Clock
 Analog Clock is x86 assembly based graphic program that generates an analog clock displaying current computer time.
 <p align="center">
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/65295655/160470118-9a6f36d3-12b7-491e-a2de-1785ae2b2334.png">
